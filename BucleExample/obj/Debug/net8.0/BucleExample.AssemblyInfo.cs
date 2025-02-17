@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BucleExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb3972b14b6f9008b05be79ce31d4d2061d6991")]
 [assembly: System.Reflection.AssemblyProductAttribute("BucleExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BucleExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

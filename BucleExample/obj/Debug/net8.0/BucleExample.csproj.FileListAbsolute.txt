@@ -12,3 +12,4 @@ C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\BucleExample\obj\Debug\net8.0
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\BucleExample\obj\Debug\net8.0\BucleExample.pdb
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\BucleExample\obj\Debug\net8.0\BucleExample.genruntimeconfig.cache
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\BucleExample\obj\Debug\net8.0\ref\BucleExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\BucleExample\obj\Debug\net8.0\BucleExample.sourcelink.json
