@@ -1,0 +1,14 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\bin\Debug\net8.0\OperadoreEjemplo.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\bin\Debug\net8.0\OperadoreEjemplo.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\bin\Debug\net8.0\OperadoreEjemplo.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\bin\Debug\net8.0\OperadoreEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\bin\Debug\net8.0\OperadoreEjemplo.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\refint\OperadoreEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\ref\OperadoreEjemplo.dll
