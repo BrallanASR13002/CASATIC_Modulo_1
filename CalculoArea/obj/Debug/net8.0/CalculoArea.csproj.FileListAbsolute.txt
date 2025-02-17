@@ -1,0 +1,14 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\bin\Debug\net8.0\CalculoArea.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\bin\Debug\net8.0\CalculoArea.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\bin\Debug\net8.0\CalculoArea.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\bin\Debug\net8.0\CalculoArea.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\bin\Debug\net8.0\CalculoArea.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\refint\CalculoArea.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\ref\CalculoArea.dll
