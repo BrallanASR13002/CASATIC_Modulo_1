@@ -1,0 +1,37 @@
+\doxysection{C\+:/\+Users/\+Brallan Sanchez/\+Documents/\+CASATIC/\+Modulo1/\+Calculo\+Area/\+Program.cs}
+\label{_program_8cs_source}\textbf{ Go to the documentation of this file.}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{keyword}{internal}\ \textcolor{keyword}{class\ }Program}
+\DoxyCodeLine{00002\ \{}
+\DoxyCodeLine{00003\ \ \ \ \ \textcolor{keyword}{private}\ \textcolor{keyword}{static}\ \textcolor{keywordtype}{void}\ Main(\textcolor{keywordtype}{string}[]\ args)}
+\DoxyCodeLine{00004\ \ \ \ \ \{}
+\DoxyCodeLine{00005\ \ \ \ \ \ \ \ \ Console.WriteLine(\textcolor{stringliteral}{"{}Cálculo\ del\ Área\ de\ un\ círculo:"{}});}
+\DoxyCodeLine{00006\ \ \ \ \ \ \ \ \ Console.WriteLine(\textcolor{stringliteral}{"{}Ingrese\ el\ valor\ del\ radius:\ "{}});}
+\DoxyCodeLine{00007\ }
+\DoxyCodeLine{00008\ \ \ \ \ \ \ \ \ \textcolor{comment}{/*\ The\ line\ \`{}string\ radius\ =\ Console.ReadLine();`\ is\ reading\ input\ from\ the\ user\ through\ the\ console}}
+\DoxyCodeLine{00009\ \textcolor{comment}{\ \ \ \ \ \ \ \ and\ storing\ it\ as\ a\ string\ variable\ named\ \`{}radius`.\ The\ user\ is\ expected\ to\ input\ the\ value\ of\ the}}
+\DoxyCodeLine{00010\ \textcolor{comment}{\ \ \ \ \ \ \ \ radius\ of\ a\ circle,\ which\ will\ be\ used\ in\ the\ subsequent\ calculations\ to\ determine\ the\ area\ of\ the}}
+\DoxyCodeLine{00011\ \textcolor{comment}{\ \ \ \ \ \ \ \ circle.\ */}}
+\DoxyCodeLine{00012\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{string}\ radius\ =\ Console.ReadLine();}
+\DoxyCodeLine{00013\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{int}\ convertednumber\ =\ 0;}
+\DoxyCodeLine{00014\ \ \ \ \ \ \ \ \ \textcolor{comment}{/*\ The\ line\ \`{}int.TryParse(radius,\ out\ convertednumber);`\ is\ attempting\ to\ convert\ the\ string\ variable}}
+\DoxyCodeLine{00015\ \textcolor{comment}{\ \ \ \ \ \ \ \ \`{}radius`\ (which\ is\ assumed\ to\ contain\ a\ numerical\ value\ entered\ by\ the\ user)\ into\ an\ integer.\ */}}
+\DoxyCodeLine{00016\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{int}.TryParse(radius,\ out\ convertednumber);}
+\DoxyCodeLine{00017\ \ \ \ \ \ \ \ \ \textcolor{comment}{/*\ The\ line\ \`{}Console.WriteLine("{}Valor\ ingresado:\ "{}\ +\ radius);`\ is\ outputting\ a\ message\ to\ the\ console}}
+\DoxyCodeLine{00018\ \textcolor{comment}{\ \ \ \ \ \ \ \ that\ includes\ the\ text\ "{}Valor\ ingresado:\ "{}\ followed\ by\ the\ value\ stored\ in\ the\ \`{}radius`\ variable.\ */}}
+\DoxyCodeLine{00019\ \ \ \ \ \ \ \ \ Console.WriteLine(\textcolor{stringliteral}{"{}Valor\ ingresado:\ "{}}\ +\ radius);}
+\DoxyCodeLine{00020\ \ \ \ \ \ \ \ \ \textcolor{comment}{/*\ The\ line\ \`{}double\ pi\ =\ 3.141592\ *\ convertednumber\ *\ convertednumber;`\ is\ calculating\ the\ area\ of\ a}}
+\DoxyCodeLine{00021\ \textcolor{comment}{\ \ \ \ \ \ \ \ circle\ based\ on\ the\ formula\ for\ the\ area\ of\ a\ circle,\ which\ is\ πr\string^2\ (pi\ times\ the\ radius\ squared).\ */}}
+\DoxyCodeLine{00022\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{double}\ pi\ =\ 3.141592\ *\ convertednumber\ *\ convertednumber;}
+\DoxyCodeLine{00023\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{double}\ areaCircle\ =\ pi;}
+\DoxyCodeLine{00024\ \ \ \ \ \ \ \ \ Console.WriteLine(\textcolor{stringliteral}{"{}El\ valor\ del\ área\ del\ círculo\ es:\ "{}});}
+\DoxyCodeLine{00025\ \ \ \ \ \ \ \ \ \textcolor{comment}{/*\ The\ line\ \`{}Console.WriteLine(areaCircle);`\ is\ responsible\ for\ outputting\ the\ calculated\ value\ of\ the}}
+\DoxyCodeLine{00026\ \textcolor{comment}{\ \ \ \ \ \ \ \ area\ of\ the\ circle\ to\ the\ console.\ This\ line\ displays\ the\ result\ of\ the\ area\ calculation,\ which\ was}}
+\DoxyCodeLine{00027\ \textcolor{comment}{\ \ \ \ \ \ \ \ stored\ in\ the\ variable\ \`{}areaCircle`,\ to\ the\ user.\ */}}
+\DoxyCodeLine{00028\ \ \ \ \ \ \ \ \ Console.WriteLine(areaCircle);}
+\DoxyCodeLine{00029\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{int}\ result\ =\ 45\ +\ 3;}
+\DoxyCodeLine{00030\ \ \ \ \ \ \ \ \ Console.WriteLine(result);}
+\DoxyCodeLine{00031\ \ \ \ \ \}}
+\DoxyCodeLine{00032\ \}}
+
+\end{DoxyCode}

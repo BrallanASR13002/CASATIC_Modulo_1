@@ -12,3 +12,4 @@ C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.pdb
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.genruntimeconfig.cache
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\ref\CalculoArea.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\CalculoArea\obj\Debug\net8.0\CalculoArea.sourcelink.json
