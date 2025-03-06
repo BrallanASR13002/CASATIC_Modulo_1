@@ -1,0 +1,14 @@
+﻿ConsoleColor color = Console.ForegroundColor;
+Console.ForegroundColor = ConsoleColor.DarkGreen;
+Console.Clear();
+Console.WriteLine("Área de un triángulo");
+Console.WriteLine("Escribe la base del triángulo:");
+double b = double.Parse(Console.ReadLine());
+Console.WriteLine("Escribe la altura del triángulo:");
+double h = double.Parse(Console.ReadLine());
+double area = (b * h )/ 2;
+Console.WriteLine($"El área del triángulo es {area}");
+Console.ForegroundColor = color;
+Console.WriteLine("Presiona cualquier tecla para salir");
+Console.ReadKey();
+Console.Clear();
