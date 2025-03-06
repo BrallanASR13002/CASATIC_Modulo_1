@@ -12,3 +12,4 @@ c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\ExampleNesting\obj\Debug\net8
 c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\ExampleNesting\obj\Debug\net8.0\ExampleNesting.pdb
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\ExampleNesting\obj\Debug\net8.0\ExampleNesting.genruntimeconfig.cache
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\ExampleNesting\obj\Debug\net8.0\ref\ExampleNesting.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\ExampleNesting\obj\Debug\net8.0\ExampleNesting.sourcelink.json

@@ -1,5 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿ConsoleColor color = Console.ForegroundColor;
+Console.ForegroundColor = ConsoleColor.DarkYellow;
+Console.Clear();
 Console.WriteLine("Estructuras anidadas");
+Console.WriteLine("-----------------------------------------------------------");
+Console.WriteLine("Presione una tecla para continuar...");
+Console.ReadKey();
 string answerQuest1 = " ", answerQuest2 = " ", answerQuest3 = " ";
 Console.WriteLine("¿Tiene usted un horno de microondas? ");
 Console.WriteLine("a. Si");
@@ -31,6 +36,12 @@ if (answerQuest1 == "a")
             Console.WriteLine("Opción elegida: mas de 10 horas");
             break;
     }
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine("Gracias por participar en la encuesta");
+    Console.WriteLine("Presione una tecla para salir...");
+    Console.ReadKey();
+    Console.Clear();
+    Console.ForegroundColor = color;
 }
 else
 {
@@ -57,4 +68,10 @@ else
             Console.WriteLine("Opción elegida: Pido delivery");
             break;
     }
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine("Gracias por participar en la encuesta");
+    Console.WriteLine("Presione una tecla para salir...");
+    Console.ReadKey();
+    Console.Clear();
+    Console.ForegroundColor = color;
 }
