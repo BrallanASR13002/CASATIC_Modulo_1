@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\bin\Debug\net8.0\StringTextExample.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\bin\Debug\net8.0\StringTextExample.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\bin\Debug\net8.0\StringTextExample.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\bin\Debug\net8.0\StringTextExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\bin\Debug\net8.0\StringTextExample.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\refint\StringTextExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\StringTextExample.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\StringTextExample\obj\Debug\net8.0\ref\StringTextExample.dll
