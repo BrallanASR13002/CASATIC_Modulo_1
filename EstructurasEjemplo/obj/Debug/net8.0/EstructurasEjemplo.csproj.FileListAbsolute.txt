@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\bin\Debug\net8.0\EstructurasEjemplo.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\bin\Debug\net8.0\EstructurasEjemplo.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\bin\Debug\net8.0\EstructurasEjemplo.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\bin\Debug\net8.0\EstructurasEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\bin\Debug\net8.0\EstructurasEjemplo.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\refint\EstructurasEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\EstructurasEjemplo.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\EstructurasEjemplo\obj\Debug\net8.0\ref\EstructurasEjemplo.dll
