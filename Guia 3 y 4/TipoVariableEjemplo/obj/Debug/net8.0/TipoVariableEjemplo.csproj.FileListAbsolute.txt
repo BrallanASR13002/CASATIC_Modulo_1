@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\bin\Debug\net8.0\TipoVariableEjemplo.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\bin\Debug\net8.0\TipoVariableEjemplo.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\bin\Debug\net8.0\TipoVariableEjemplo.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\bin\Debug\net8.0\TipoVariableEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\bin\Debug\net8.0\TipoVariableEjemplo.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\refint\TipoVariableEjemplo.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\TipoVariableEjemplo.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\TipoVariableEjemplo\obj\Debug\net8.0\ref\TipoVariableEjemplo.dll

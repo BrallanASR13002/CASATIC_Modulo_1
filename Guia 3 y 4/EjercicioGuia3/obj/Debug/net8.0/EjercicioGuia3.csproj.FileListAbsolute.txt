@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\bin\Debug\net8.0\EjercicioGuia3.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\bin\Debug\net8.0\EjercicioGuia3.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\bin\Debug\net8.0\EjercicioGuia3.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\bin\Debug\net8.0\EjercicioGuia3.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\bin\Debug\net8.0\EjercicioGuia3.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\refint\EjercicioGuia3.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\EjercicioGuia3.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 3 y 4\EjercicioGuia3\obj\Debug\net8.0\ref\EjercicioGuia3.dll
