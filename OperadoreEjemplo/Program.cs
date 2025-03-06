@@ -15,8 +15,8 @@
     Console.WriteLine($"División de {num1} y {num2}: " + (num1 / num2));
     Console.WriteLine($"Módulo de {num1} y {num2}: " + (num1 % num2));
     Console.WriteLine("Operadores relacionales");
-    Console.WriteLine($"Igualdad entre {num1} y {num2}: " + (num1 == num2));    
-    Console.WriteLine($"Diferencia entre {num1} y {num2}: " + (num1 != num2));
+    Console.WriteLine($"Es {num1} igual que {num2}: " + (num1 == num2));    
+    Console.WriteLine($"Es {num1} distinto de {num2}: " + (num1 != num2));
     Console.WriteLine($"Es {num1} mayor que {num2}: " + (num1 > num2));
     Console.WriteLine($"Es {num1} menor que {num2}: " + (num1 < num2));
     Console.WriteLine($"Es {num1} mayor o igual que {num2}: " + (num1 >= num2));
