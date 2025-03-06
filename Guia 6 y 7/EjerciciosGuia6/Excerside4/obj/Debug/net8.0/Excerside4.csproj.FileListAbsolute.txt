@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\bin\Debug\net8.0\Excerside4.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\bin\Debug\net8.0\Excerside4.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\bin\Debug\net8.0\Excerside4.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\bin\Debug\net8.0\Excerside4.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\bin\Debug\net8.0\Excerside4.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\refint\Excerside4.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\Excerside4.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 6 y 7\EjerciciosGuia6\Excerside4\obj\Debug\net8.0\ref\Excerside4.dll
