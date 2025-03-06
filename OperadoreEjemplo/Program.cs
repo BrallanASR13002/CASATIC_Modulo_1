@@ -2,6 +2,9 @@
 {
     static void Main(string[] args)
     {
+    Console.Clear();
+    ConsoleColor color = Console.ForegroundColor;
+    Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Ejemplo de operadores aritméticos, logicos y relacionales");
     Console.WriteLine("-----------------------------------------------------------");
     Console.WriteLine("Presione una tecla para continuar...");
@@ -27,9 +30,11 @@
     Console.WriteLine($"Es {num1} > 0 AND {num2} > 0?: " + (num1 > 0 && num2 > 0));
     Console.WriteLine($"Es {num1} >0 OR {num2}: >0?: " + (num1 > 0 || num2 > 0));
     Console.WriteLine($"Uso de NOT: ");
-    Console.WriteLine($"!({num1}>0)"+!(num1 > 0));
+    Console.WriteLine($"Es !({num1} > 0): "+!(num1 > 0));
     Console.WriteLine("-----------------------------------------------------------");
-    Cosole.WriteLine("Presione una tecla para salir...");
+    Console.WriteLine("Presione una tecla para salir...");
     Console.ReadKey();
+    Console.Clear();
+    Console.ForegroundColor = color;
     }
 }

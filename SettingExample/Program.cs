@@ -1,7 +1,7 @@
 ﻿class Program
 {
     static void Main(string[] args)
-    {
+    {   Console.Clear();
         Console.WriteLine("Ejemplo de configuración");
         Console.WriteLine("Presione una tecla para continuar...");
         Console.ReadKey();
@@ -17,8 +17,9 @@
         Console.WriteLine("Ejemplo de negación");
         Console.WriteLine("Negando que una persona sea adulta");
         result = !isAdult;
-        Console.WriteLine("La persona es adulta: " + result); 
+        Console.WriteLine("La persona es adulta: " + result);
         Console.WriteLine("Presione una tecla para salir...");
         Console.ReadKey();
+        Console.Clear();
     }
 }
