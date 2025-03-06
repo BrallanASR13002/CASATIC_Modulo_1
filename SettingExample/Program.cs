@@ -17,7 +17,7 @@
         Console.WriteLine("Ejemplo de negación");
         Console.WriteLine("Negando que una persona sea adulta");
         result = !isAdult;
-        Console.WriteLine("La persona es adulta: " + isNotAdult); 
+        Console.WriteLine("La persona es adulta: " + result); 
         Console.WriteLine("Presione una tecla para salir...");
         Console.ReadKey();
     }

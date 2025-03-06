@@ -22,9 +22,10 @@
     Console.WriteLine($"Es {num1} mayor o igual que {num2}: " + (num1 >= num2));
     Console.WriteLine($"Es {num1} menor o igual que {num2}: " + (num1 <= num2));
     Console.WriteLine("Operadores lógicos");
-    Console.WriteLine($"{num1} AND {num2}: " + (num1 > 0 && num2 > 0));
-    Console.WriteLine($"{num1} OR {num2}: " + (num1 > 0 || num2 > 0));
-    Console.WriteLine($"Uso de NOT: " + !(num1 > 0));
+    Console.WriteLine($"Es {num1} > 0 AND {num2} > 0?: " + (num1 > 0 && num2 > 0));
+    Console.WriteLine($"Es {num1} >0 OR {num2}: >0?: " + (num1 > 0 || num2 > 0));
+    Console.WriteLine($"Uso de NOT: ");
+    Console.WriteLine($"!({num1}>0)"+!(num1 > 0));
     Console.ReadKey();
 
     }
