@@ -4,6 +4,8 @@
     {
     Console.WriteLine("Ejemplo de operadores aritméticos, logicos y relacionales");
     Console.WriteLine("-----------------------------------------------------------");
+    Console.WriteLine("Presione una tecla para continuar...");
+    Console.ReadKey();
     Console.WriteLine("Ingrese el primer número: ");
     int num1 = int.Parse(Console.ReadLine());
     Console.WriteLine("Ingrese el segundo número: ");
@@ -26,7 +28,8 @@
     Console.WriteLine($"Es {num1} >0 OR {num2}: >0?: " + (num1 > 0 || num2 > 0));
     Console.WriteLine($"Uso de NOT: ");
     Console.WriteLine($"!({num1}>0)"+!(num1 > 0));
+    Console.WriteLine("-----------------------------------------------------------");
+    Cosole.WriteLine("Presione una tecla para salir...");
     Console.ReadKey();
-
     }
 }
