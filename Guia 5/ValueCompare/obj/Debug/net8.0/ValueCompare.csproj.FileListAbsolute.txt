@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.sourcelink.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\bin\Debug\net8.0\ValueCompare.exe
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\bin\Debug\net8.0\ValueCompare.deps.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\bin\Debug\net8.0\ValueCompare.runtimeconfig.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\bin\Debug\net8.0\ValueCompare.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\bin\Debug\net8.0\ValueCompare.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\refint\ValueCompare.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ValueCompare.genruntimeconfig.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\Guia 5\ValueCompare\obj\Debug\net8.0\ref\ValueCompare.dll
