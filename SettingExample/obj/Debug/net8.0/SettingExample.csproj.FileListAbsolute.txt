@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\bin\Debug\net8.0\SettingExample.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\bin\Debug\net8.0\SettingExample.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\bin\Debug\net8.0\SettingExample.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\bin\Debug\net8.0\SettingExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\bin\Debug\net8.0\SettingExample.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\refint\SettingExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\SettingExample.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\SettingExample\obj\Debug\net8.0\ref\SettingExample.dll
