@@ -1,39 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Expresiones Aritmeticas, Logicas y relacionales");
-int number1 = 45, number2 = 3;
-bool result = number1 <= number2;
-Console.WriteLine("El resultado es: " + result);
-Console.WriteLine("¿Son Iguales?");
-
-int number3 = 45;
-int number4 = 45;
-bool result1 = number3 == number4;
-Console.WriteLine("El Resultado es: " + result);
-if (number1 > 0)
+﻿class Program
 {
-    Console.WriteLine($"El numero {number1} es mayor a 0");
-}
-else
-{
-    Console.WriteLine($"El número {number1} no es mayor a 0");
-}
+    static void Main(string[] args)
+    {
+    Console.WriteLine("Ejemplo de operadores aritméticos, logicos y relacionales");
+    Console.WriteLine("-----------------------------------------------------------");
+    Console.WriteLine("Ingrese el primer número: ");
+    int num1 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Ingrese el segundo número: ");
+    int num2 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Operadores aritméticos");
+    Console.WriteLine($"Suma de {num1} y {num2}: " + (num1 + num2));
+    Console.WriteLine($"Resta de {num1} y {num2}: " + (num1 - num2));
+    Console.WriteLine($"Multiplicación de {num1} y {num2}: " + (num1 * num2));
+    Console.WriteLine($"División de {num1} y {num2}: " + (num1 / num2));
+    Console.WriteLine($"Módulo de {num1} y {num2}: " + (num1 % num2));
+    Console.WriteLine("Operadores relacionales");
+    Console.WriteLine($"Igualdad entre {num1} y {num2}: " + (num1 == num2));    
+    Console.WriteLine($"Diferencia entre {num1} y {num2}: " + (num1 != num2));
+    Console.WriteLine($"Es {num1} mayor que {num2}: " + (num1 > num2));
+    Console.WriteLine($"Es {num1} menor que {num2}: " + (num1 < num2));
+    Console.WriteLine($"Es {num1} mayor o igual que {num2}: " + (num1 >= num2));
+    Console.WriteLine($"Es {num1} menor o igual que {num2}: " + (num1 <= num2));
+    Console.WriteLine("Operadores lógicos");
+    Console.WriteLine($"{num1} AND {num2}: " + (num1 > 0 && num2 > 0));
+    Console.WriteLine($"{num1} OR {num2}: " + (num1 > 0 || num2 > 0));
+    Console.WriteLine($"Uso de NOT: " + !(num1 > 0));
+    Console.ReadKey();
 
-//ejemplo de switch
-int number = 0;
-Console.WriteLine("Ingrese un numero");
-string stringData = Console.ReadLine();
-int.TryParse(stringData, out number);
-switch (number)
-{
-    case 1:
-        Console.WriteLine("El numero ingresado es 1");
-        break;
-    case 2:
-        Console.WriteLine("El numero ingresado es 2");
-        break;
-    default:
-        Console.WriteLine("Es diferente de 1 y 2");
-        break;
-
+    }
 }

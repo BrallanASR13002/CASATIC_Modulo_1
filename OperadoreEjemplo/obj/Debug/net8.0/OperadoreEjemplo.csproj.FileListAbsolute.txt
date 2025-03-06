@@ -12,3 +12,4 @@ C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\ne
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.pdb
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.genruntimeconfig.cache
 C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\ref\OperadoreEjemplo.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo1\OperadoreEjemplo\obj\Debug\net8.0\OperadoreEjemplo.sourcelink.json
