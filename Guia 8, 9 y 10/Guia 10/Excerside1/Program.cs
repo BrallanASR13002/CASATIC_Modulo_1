@@ -1,11 +1,11 @@
 ﻿using System.Diagnostics.Contracts;
+using System.Security.Cryptography.X509Certificates;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
         
-
     }
     public double DataInpunt(){
         double number;
@@ -25,5 +25,9 @@ internal class Program
         Console.ReadKey();
         Console.Clear();
         Console.ForegroundColor = color;
+    }
+    public double Sum(double number1, double number2)
+    {
+        return number1 + number2;
     }
 }
