@@ -2,7 +2,14 @@
 {
     private static void Main(string[] args)
     {
-        public static double DataInpunt()
+        double radius;
+        double result;
+        Print("Calculo del area de un circulo, usando funciones");
+        radius = DataInpunt();
+        result = AreaCircle(radius);
+        Print($"El area de un circulo con radio {radius} es: " + result);
+    }
+     public static double DataInpunt()
         {
             double number;
             string data;
@@ -26,4 +33,3 @@
             return Math.PI * Math.Pow(radius, 2);
         }
     }
-}
