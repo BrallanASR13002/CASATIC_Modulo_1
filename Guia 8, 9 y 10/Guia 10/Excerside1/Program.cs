@@ -16,9 +16,8 @@ internal class Program
     public static double DataInpunt()
     {
         double number;
-        string data;
         Print("Ingrese un numero: ");
-        data = Console.ReadLine();
+        string? data = Console.ReadLine();
         number = Convert.ToDouble(data);
         return number;
     }
