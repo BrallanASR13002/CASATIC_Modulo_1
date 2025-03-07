@@ -30,7 +30,6 @@ internal class Program
         Console.WriteLine(message);
         Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
-        Console.Clear();
         return message;
     }
 }
