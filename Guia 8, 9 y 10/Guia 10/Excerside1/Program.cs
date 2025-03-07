@@ -1,9 +1,19 @@
-﻿internal class Program
+﻿using System.Diagnostics.Contracts;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
         
 
+    }
+    public double DataInpunt(){
+        double number;
+        string data;
+        Print("Ingrese un numero: ");
+        data = Console.ReadLine();
+        number = Convert.ToDouble(data);
+        return number;
     }
     public void Print(string message)
     {
