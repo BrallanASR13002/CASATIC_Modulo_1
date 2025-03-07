@@ -21,5 +21,9 @@
             Console.ForegroundColor = color;
             return message;
         }
+        public static double AreaCircle(double radius)
+        {
+            return Math.PI * Math.Pow(radius, 2);
+        }
     }
 }
