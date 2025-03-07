@@ -5,7 +5,7 @@
         
 
     }
-    void Print(string message)
+    public void Print(string message)
     {
         ConsoleColor color = Console.ForegroundColor;
         Console.ForegroundColor = ConsoleColor.DarkGreen;
