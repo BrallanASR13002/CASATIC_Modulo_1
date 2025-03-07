@@ -13,7 +13,7 @@
         {
             double number;
             string data;
-            Print("Ingrese un numero: ");
+            Print("Ingrese el valor del radio: ");
             data = Console.ReadLine();
             number = Convert.ToDouble(data);
             return number;
@@ -23,13 +23,13 @@
             ConsoleColor color = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("-----------------------------------------------------------");
-            Console.WriteLine(message);
+            Console.Write(message);
             Console.WriteLine("-----------------------------------------------------------");
             Console.ForegroundColor = color;
             return message;
         }
         public static double AreaCircle(double radius)
         {
-            return Math.PI * Math.Pow(radius, 2);
+            return Math.Round(Math.PI * Math.Pow(radius, 2,2));
         }
     }
