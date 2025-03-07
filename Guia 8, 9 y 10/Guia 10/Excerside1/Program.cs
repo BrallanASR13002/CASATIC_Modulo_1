@@ -11,7 +11,7 @@ internal class Program
         number1 = DataInpunt();
         number2 = DataInpunt();
         result = number1 + number2;
-        Print("El resultado de la suma es: " + result);
+        Print($"El resultado de la suma de {number1} y {number2} es: " + result);
     }
     public static double DataInpunt()
     {
