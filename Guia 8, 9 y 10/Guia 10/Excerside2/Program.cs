@@ -23,13 +23,13 @@
             ConsoleColor color = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("-----------------------------------------------------------");
-            Console.Write(message);
+            Console.WriteLine(message);
             Console.WriteLine("-----------------------------------------------------------");
             Console.ForegroundColor = color;
             return message;
         }
         public static double AreaCircle(double radius)
         {
-            return Math.Round(Math.PI * Math.Pow(radius, 2,2));
+            return Math.Round(Math.PI * Math.Pow(radius, 2),2);
         }
     }
